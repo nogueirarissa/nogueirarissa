@@ -4,7 +4,7 @@
 
 #### 🧡 A personal goal is to support girls and women who want to join and build a career in the STEM field.
 
-#### 🌱 I'm currently deepening my knowledge of Java and its use to build a robust back-end.
+#### 🌱 I'm currently deepening my knowledge of Cloud Computing.
 
 ##
 
